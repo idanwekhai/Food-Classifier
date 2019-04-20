@@ -1,6 +1,6 @@
 # Nigerian Food Classifier
 
-Checkout the training notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/idanwekhai/Food-Classifier/blob/master/Food_Classifier.ipynb]
+Checkout the training notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/idanwekhai/Food-Classifier/blob/master/Food_Classifier.ipynb)
 
 The webapp uses deeplearning to classify Nigerian foods
 
